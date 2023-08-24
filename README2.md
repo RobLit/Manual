@@ -1,4 +1,4 @@
-
+*TESTING DEMO E-COMMERCE SITE*
 
 Manual tests https://shop.polymer-project.org/
 
